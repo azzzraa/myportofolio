@@ -40,7 +40,7 @@ export default function About() {
 </p>
 
 <p>
-  <span className="italic">When I'm not coding</span>, I enjoy playing video
+  <span className="italic">When I&apos;m not coding</span>, I enjoy playing video
   games, watching movies, and learning new things.
 </p>
 
