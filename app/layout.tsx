@@ -42,4 +42,3 @@ export default function RootLayout({
   );
 }
 
-//RESEND_API_KEY=re_bJCKhUXa_NW1NCdaHm66cXMcRjfziM3MN

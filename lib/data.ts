@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "Data Management & Testing Specialist",
     location: "A1 Slovenia",
     description:
-      "At A1 Slovenia, I worked for a year in testing, data management, and various IT-related tasks, refining my problem-solving and analytical skills.",
+      "At A1 Slovenia, I worked for a year in testing, data management, and various related tasks, refining my problem-solving and analytical skills.",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - May 2024",
   },
